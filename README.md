@@ -1,6 +1,6 @@
 <h1>Hey 👋 Iam Frandy</h1>
 
-<h2 a web developer</h2>
+<h2> a web developer</h2>
 
 > Hard Work Big Dreams, I Love it.
 

@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hey 👋 Iam Frandy</h1>
 
-<!--
-**ydnarf/ydnarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 a web developer</h2>
 
-Here are some ideas to get you started:
+> Hard Work Big Dreams, I Love it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a guy passionate about technology, honest, and self-taught. I consider myself a person with initiative, who loves to take on new responsibilities, learn new things, and face great challenges. I have 3 years of experience in the web industry.
+
+- 🤹 Networks 👉 <a href="https://www.linkedin.com/in/frandy-rivera-nu%C3%B1ez-60b261160/ target="popup" onclick="window.open('{{url}}','popup','width=600,height=600'); return false;"> LinkedIn </a>
+- 💻 Collaborate on some open source projects
+- 📱  Building my personal brand🧑🏼‍💻
+- 📚  Read some books
+- 💡  Devote my time to be creative in my projects
+- ✉️ Contact me: ydnarf21@gmail.com or ydnarf13@hotmail.com
+

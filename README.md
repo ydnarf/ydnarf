@@ -4,7 +4,7 @@
 
 > Hard Work Big Dreams, I Love it.
 
-I'm a guy passionate about technology, honest, and self-taught. I consider myself a person with initiative, who loves to take on new responsibilities, learn new things, and face great challenges. I have 3 years of experience in the web industry.
+I'm a guy passionate about technology, honest, and self-taught. I consider myself a person with initiative, who loves to take on new responsibilities, learn new things, and face great challenges.
 
 - 🤹 Networks 👉 <a href="https://www.linkedin.com/in/frandy-rivera-nu%C3%B1ez-60b261160/" target="_blank" onclick="window.open('{{url}}','popup','width=600,height=600'); return false;"> LinkedIn </a>
 - 💻 Collaborate on some open source projects

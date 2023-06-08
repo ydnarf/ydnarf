@@ -1,4 +1,4 @@
-<h1>Hey 👋 Iam Frandy</h1>
+<h1>Hey 👋 I am Frandy</h1>
 
 <h2> a web developer</h2>
 

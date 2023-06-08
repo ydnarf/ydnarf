@@ -12,4 +12,12 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
 - 📚  Read some books
 - 💡  Devote my time to be creative in my projects
 - ✉️ Contact me: ydnarf21@gmail.com or ydnarf13@hotmail.com
+  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"></code>
+   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"></code>
+   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"></code>
+   <code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"></code>
+</p>
 

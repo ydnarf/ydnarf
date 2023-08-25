@@ -1,5 +1,7 @@
 <h1>Hey 👋 I am Frandy, </h1>
-<h2>Computer and Systems Engineer, Web Developer</h2>
+<h2>Computer and Systems Engineer , Web Developer</h2>
+
+![giphy](https://github.com/ydnarf/ydnarf/assets/56798132/a8342151-c610-4a60-83c6-2727f29dd444)
 
 > Hard Work Big Dreams, I Love it.
 

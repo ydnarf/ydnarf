@@ -1,7 +1,8 @@
-<h1>Hey 👋 I am Frandy, </h1>
+
+![2](https://github.com/ydnarf/ydnarf/assets/56798132/d11f0d41-cf0a-442c-a949-33ec9ca2268b)
+
 <h2>Computer and Systems Engineer , Web Developer</h2>
 
-![giphy](https://github.com/ydnarf/ydnarf/assets/56798132/a8342151-c610-4a60-83c6-2727f29dd444)
 
 > Hard Work Big Dreams, I Love it.
 

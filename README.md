@@ -1,7 +1,7 @@
 
 ![2](https://github.com/ydnarf/ydnarf/assets/56798132/d11f0d41-cf0a-442c-a949-33ec9ca2268b)
 
-<h2>Computer and Systems Engineer , Full Stack Developer</h2>
+<h2>Computer and Systems Engineer , Web Developer</h2>
 
 
 > Hard Work Big Dreams, I Love it.

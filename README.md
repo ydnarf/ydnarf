@@ -31,5 +31,6 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
   <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored.svg" height="20" alt="ASTRO"></code>
   <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="20" alt="Nodejs"></code>
   <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="20" alt="mySQL"></code>
+  <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="20" alt="postgresql"></code>
 </p>
 

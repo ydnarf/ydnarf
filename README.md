@@ -63,7 +63,7 @@ Soy un guy apasionado por la tecnología, honesto y autodidacta. Me considero un
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ydnarf&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats graph" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydnarf&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
 
 </div>

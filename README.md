@@ -12,7 +12,7 @@
 
 > **Hard Work, Big Dreams — I Love it.**
 
-Soy un guy apasionado por la tecnología, honesto y autodidacta. Me considero una persona con iniciativa, que ama asumir nuevas responsabilidades, aprender cosas nuevas y enfrentar grandes retos.
+Soy un chico apasionado por la tecnología, honesto y autodidacta. Me considero una persona con iniciativa, que ama asumir nuevas responsabilidades, aprender cosas nuevas y enfrentar grandes retos.
 
 <br>
 
